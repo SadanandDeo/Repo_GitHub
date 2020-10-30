@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 86AA-3240
+
+ Directory of D:\git
+
+10/30/2020  10:14 PM    <DIR>          .
+10/30/2020  10:14 PM    <DIR>          ..
+10/30/2020  10:14 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,948,363,776 bytes free
