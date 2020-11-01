@@ -26,3 +26,38 @@ I am inside  Test1 repo second time for testing
 6. git commit -m "New branch created NY"
 
 7. git push origin HEAD
+
+-------------------------------------------
+Merge the Code NY Branch to Master baranch
+
+ 1.git checkout master
+
+2.git pull origin NY
+
+3.$ git pull
+
+4.$ git push
+
+----------------------------------------------------------
+#added to NY repo
+1.git branch
+   NY
+   US
+   master
+
+2.git checkout NY (Switch to NY Branch)
+
+3. git add . (add local repo to Remote repo)
+
+4. git commit -m "Merge command added" (Committed to local repo)
+
+5. git push origin NY (push local to remote repo)
+
+
+
+
+
+
+
+
+
