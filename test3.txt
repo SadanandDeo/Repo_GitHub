@@ -21,3 +21,8 @@ I am inside  Test1 repo second time for testing
 
 4.git checkout NY( Switch to Branch NY)
 
+5.$ git add .
+
+6. git commit -m "New branch created NY"
+
+7. git push origin HEAD
