@@ -1,0 +1,14 @@
+2.git checkout -b US (Created new Branch)
+
+3.git branch
+ US
+ master
+
+4.git checkout US( Switch to Branch US)
+
+5.$ git add .
+
+6. git commit -m "New branch created US"
+
+7. git push origin HEAD (add local to remote repository)
+
