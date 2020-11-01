@@ -2,9 +2,3 @@
 
 Date 01-Nov-2020
 
-
-
-Why would I want to do this?
-In my thesis, I’m working on a project that I develop in one environment, and then test in another environment composed of multiple virtual machines. So each important change that I do may have a significant impact on the functionalities of the project. Sometimes, the change I do might not have the result I expected. Then I have to see the changes and analyze the project’s behavior before and after the last commit.
-How do you see the last commit?
-
