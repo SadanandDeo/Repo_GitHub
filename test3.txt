@@ -53,6 +53,18 @@ Merge the Code NY Branch to Master baranch
 
 5. git push origin NY (push local to remote repo)
 
+---------------------------------------------------------------
+
+#update the existing code base with latest master branch code base
+
+1.git branch
+
+2.git fetch
+
+
+3.git pull
+
+
 
 
 
