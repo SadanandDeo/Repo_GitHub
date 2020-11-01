@@ -9,3 +9,15 @@ I am inside  Test1 repo
 I am inside  Test1 repo second time for testing
 >>>>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1.git branch
+  master
+
+2.git checkout -b NY (Created new Branch)
+
+3.git branch
+  NY
+ master
+
+4.git checkout NY( Switch to Branch NY)
+
