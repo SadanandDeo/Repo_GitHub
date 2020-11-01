@@ -1,6 +1,5 @@
 #Documented  by Architect
 #Modification done
-@line1
 @Developer Guide
 
 Push Data from to remote By Sada
@@ -67,7 +66,6 @@ Merge the Code NY Branch to Master baranch
 
 3.git pull
 
-#line end
 
 
 
